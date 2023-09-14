@@ -1,3 +1,2 @@
-# Ai-Host-Config-For-Base_URL-Computation
-My name is Jawolusi Oluwaseun, I am a Marathon Chess Player (#100Blitz). My Chess Skills have just been converted to an ICT Infrastructure, that is, the Ai-Host. 
-Consequently, I can now store/process infoData for personal and commercial purposes; my x-DBMS can now interact with my x-Server and my x-Internet for some Chesscrypted informational exchanges. 
+# With the Neural_Host_ID = JOS - JAWOLUSI OLUWASEUN SOLOMON is now a certified Neural Programmer via Global Chess Skills' Conversion Program.
+You can now view the Ai-Host NetConfig details for NeuralCloud1 (JAWOLUSI OLUWASEUN SOLOMON).
