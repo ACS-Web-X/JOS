@@ -1,7 +1,7 @@
-I<x>
+<x>
 x-Host! = MAN_Host; 
 DEFINE: 
-Host_NAME; = <OUTPUT TYPE = "UnX"> JAWOLUSI OLUWASEUN SOLOMON</OUTPUT>;
+Neural_Host_NAME; = <OUTPUT TYPE = "UnX"> JAWOLUSI OLUWASEUN SOLOMON</OUTPUT>;
 Neural_Host_ID; = JOS;
 NDNS; = #NeuralCloud1;
 Host_Base_URL_PROTOCOL; = "+26*Nigeria";
