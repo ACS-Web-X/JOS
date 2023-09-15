@@ -1,4 +1,4 @@
-<x>
+I<x>
 x-Host! = MAN_Host; 
 DEFINE: 
 Host_NAME; = <OUTPUT TYPE = "UnX"> JAWOLUSI OLUWASEUN SOLOMON</OUTPUT>;
@@ -7,8 +7,8 @@ NDNS; = #NeuralCloud1;
 Host_Base_URL_PROTOCOL; = "+26*Nigeria";
 Host_PROFILE_PICTURE; = "*41*d6*62*a6*41*b8*50"/"*g8*6*d6*53*a7*42*h7*62"/"*e7*61*d7*41*d7";
 Host_SOCIAL_MEDIA_ID; = "*41*d6*62*a6*41*b8*50"/"*g8*6*d6*53*a7*42*h7*62";
-Base_URL_TYPE; = MoNo_COMPLEX;
 Default_Base_URL; = "+f1-m13";
+Base_URL_TYPE; = MoNo_COMPLEX;
 Big_Data_TYPE; = "Num-AlphaNumeric";
 CONTENT; = #;
 OUTPUT; = #;
